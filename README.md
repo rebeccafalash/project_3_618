@@ -13,7 +13,8 @@ Import the dataset you have chosen based on your earlier assignments.
 Clean your dataset, handling missing values, inconsistencies, and any other issues you encounter.  You should be able to reuse code from earlier work to help you do this, although you may need to make some modifications.
 Apply various preprocessing techniques such as feature scaling, one-hot encoding, handling categorical variables, and dimensionality reduction.
 Justify the preprocessing choices made, ensuring that they align with the analytical techniques you plan to use later.
-Clustering or Classification Analysis (100 points)
+
+### Clustering or Classification Analysis (100 points)
 
 Clearly define your analytical goal and the rationale behind choosing either clustering or classification.
 If clustering:
@@ -24,7 +25,8 @@ If classification:
 Choose and implement at least two different classifiers.
 Optimize parameters for each classifier and evaluate their performance using appropriate metrics.
 Interpret and analyze the classification results, discussing the comparative effectiveness of the classifiers used.
-Code and Reporting (20 points)
+
+### Code and Reporting (20 points)
 
 Follow PEP-8 guidelines and use good coding style (10 points).
 Use proper grammar, spelling, and professional language in your comments and report (10 points).
