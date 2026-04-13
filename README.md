@@ -36,19 +36,21 @@ A single Jupyter notebook containing all your analysis, code, comments, and inte
 Submit the Jupyter notebook in both .ipynb and exported .html formats.
 Rubric:
 
-- Preprocessing Data (80 Points)
+**Preprocessing Data (80 Points)**
 - Data cleaning and handling of issues: 20 points
 - Feature scaling and normalization; one-hot encoding/categorical variable handling: 20 points
 - Dimensionality reduction techniques: 20 points
 - Preprocessing justification and impact analysis: 20 points
-- Clustering or Classification Analysis (100 Points)
+
+**Clustering or Classification Analysis (100 Points)**
 
 - Clear definition and justification of goals: 10 points
 - Implementation of chosen techniques: 20 points
 - Parameter optimization and method tuning: 20 points
 - Performance evaluation and metric selection: 20 points
 - Interpretation and discussion of results: 30 points
-- Code and Reporting (20 Points)
+
+**Code and Reporting (20 Points)**
 - Adherence to PEP-8 and coding style: 10 points
 - Quality of grammar, spelling, and professional language: 10 points
 **Total: 200 points**
